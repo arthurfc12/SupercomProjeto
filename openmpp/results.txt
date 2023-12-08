@@ -1,0 +1,29 @@
+10 vertices
+
+Clique maxima encontrada: 1 5 7 8 
+Tempo de execução: 11.7029 ms
+
+20 vertices
+
+Clique maxima encontrada: 1 3 4 7 9 11 12 18 
+Tempo de execução: 36.0252 ms
+
+30 vertices
+
+Clique maxima encontrada: 1 5 7 8 11 17 23 27 29 
+Tempo de execução: 19665.9 ms
+
+40 vertices
+
+50 vertices
+
+60 vertices
+
+70 vertices
+
+80 vertices
+
+90 vertices
+
+100 vertices
+

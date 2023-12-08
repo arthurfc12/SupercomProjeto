@@ -1,0 +1,20 @@
+********************
+        Python
+********************
+
+python3 arquivo.py
+
+********************
+        C++
+********************
+
+g++ -Wall -O3 arquivo.cpp -o executavel
+./executavel
+
+g++ -g -Wall -fopenmp -o openmp openmp.cpp
+./heuristica
+
+mpic++ -o mpi_proj mpi_proj.cpp
+criar arquivo slurm e configurar
+sbatch mpi_proj.slurm
+squeue
